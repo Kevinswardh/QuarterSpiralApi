@@ -1,0 +1,6 @@
+@QuarterSpiralApi_HostAddress = http://localhost:5081
+
+GET {{QuarterSpiralApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
